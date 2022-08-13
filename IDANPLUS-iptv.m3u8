@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,KAN 11 IL
+#EXTGRP:עידן פלוס
+https://kan11sub.media.kan.org.il/hls/live/2024678-b/2024678/source1_1.8k/chunklist.m3u8
+#EXTINF:0,CHANNEL 12 HD IL
+#EXTGRP:עידן פלוס
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/1/hdntl=exp=1655843319~acl=%2f*~data=hdntl~hmac=ac0187aae1ba048cbca6d34eb9f4be73943dd33dd2276cbae2c75c7b360b20f4/profileManifest.m3u8?_uid=3efbd080-7e9b-4f48-bbf4-71afef99399c
+#EXTINF:0,Reshet 13 IL
+#EXTGRP:עידן פלוס
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+#EXTINF:0,CHANNEL 14 HD IL
+#EXTGRP:עידן פלוס
+https://dvr.ch20-cdnwiz.com/hls/live_720/index.m3u8
+#EXTINF:0,האח הגדול BIG BRADOR
+#EXTGRP:עידן פלוס
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+#EXTINF:0,כאן חינוכית
+#EXTGRP:עידן פלוס
+https://stream-08.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUBH0n-PIF7su7PQNnbaqK8EprVt_KazinYEQKezCsxHl)/dm/3/x7ymw7f/d/live-3.m3u8#cell=lcore
+#EXTINF:0,MUSIC 24 IL
+#EXTGRP:עידן פלוס
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/hdntl=exp=1655843566~acl=%2f*~data=hdntl~hmac=e6cc0a65f792f99887eaba55841cd24cf05102be75bee2dcc09b7058e9607c44/index_550.m3u8
+#EXTINF:0,Mekan 33
+#EXTGRP:עידן פלוס
+http://luckytvpro.com:8080/ZpcEnUbjCg/mrdCNe3VdM/14595
+#EXTINF:0,sport 5 
+#EXTGRP:עידן פלוס
+https://networkbest.ru.com/cdn/premium144/chunks.m3u8
+#EXTINF:0,ערוץ הקניות
+#EXTGRP:עידן פלוס
+https://shoppingil-rewriter.vidnt.com/video_480p_1000008812.m3u8
+#EXTINF:0,ערוץ הכנסת
+#EXTGRP:עידן פלוס
+https://contact.gostreaming.tv/Knesset/myStream/chunklist_w17063456.m3u8
+#EXTINF:0,ערוץ הקבלה
+#EXTGRP:עידן פלוס
+https://edge2.il.kab.tv/live/tv66-heb-high/chunks.m3u8
+#EXTINF:0,ערוץ הדיברות
+#EXTGRP:עידן פלוס
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+#EXTINF:0,Channel 9 IL
+#EXTGRP:עידן פלוס
+http://s1.ttranslit.com:8081/9_izrail/index.m3u8?wmsAuthSign=1655775209Sf8aff4c966c083eab8a3cc7416b9750dS44h831h642h08
+
+
